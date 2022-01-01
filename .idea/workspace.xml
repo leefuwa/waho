@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cede304-37f3-4e4a-bf38-14c7e7e2c092" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../_Software/Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1nBQ8OQrvSi5hWGaa4CehQmHWGD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/comm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_Project\_\gotest\waho\comm" />
+      <recent name="E:\_Project\Box\_\gotest\waho\api\routers" />
+      <recent name="E:\_Project\Box\_\gotest\wabuy\_handyDev\测试事务问题\2" />
+      <recent name="E:\_Project\Box\_\gotest\wabuy\api" />
+      <recent name="E:\_Project\Box\_\gotest\wabuy\core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\_Project\Box\_\gotest\wabuy\api\controllers\comm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build api">
+    <configuration name="go build api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wabuy" />
+      <working_directory value="$PROJECT_DIR$/api" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/api/main.go" />
+      <package value="api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build appservice (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wabuy" />
+      <working_directory value="$PROJECT_DIR$/appservice" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/appservice/main.go" />
+      <package value="appservice" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build appservice" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="wabuy" />
+      <working_directory value="$PROJECT_DIR$/appservice" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/_handyDev/生成models/main.go" />
+      <package value="wabuy/appservice" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wabuy" />
+      <working_directory value="$PROJECT_DIR$/api" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/api/main.go" />
+      <package value="wabuy" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wabuy/_handyDev/测试" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wabuy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/_handyDev/测试/main.go" />
+      <package value="wabuy/_handyDev/测试" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wabuy/_handyDev/测试事务问题/1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wabuy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/_handyDev/测试事务问题/1/main.go" />
+      <package value="wabuy/_handyDev/测试事务问题/1" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go 构建.go build appservice" />
+      <item itemvalue="Go 构建.go build api" />
+      <item itemvalue="Go 构建.go build appservice (1)" />
+      <item itemvalue="Go 构建.go build wabuy/_handyDev/测试" />
+      <item itemvalue="Go 构建.go build main.go" />
+      <item itemvalue="Go 构建.go build wabuy/_handyDev/测试事务问题/1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build api" />
+        <item itemvalue="Go 构建.go build wabuy/_handyDev/测试事务问题/1" />
+        <item itemvalue="Go 构建.go build wabuy/_handyDev/测试" />
+        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build appservice (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
